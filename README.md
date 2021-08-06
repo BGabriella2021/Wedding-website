@@ -1,2 +1,1 @@
-# Wedding-website
-CodeBerry gyakorlás
+CodeBerry wedding website
